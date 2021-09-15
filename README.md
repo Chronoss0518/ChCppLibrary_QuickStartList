@@ -27,27 +27,6 @@ ChCppLibrary内のChCpp,ChBaseのライブラリの使い方を説明するた�
 - zlib license | zlib | Jean-loup Gailly And Mark Adler | [GitHub「https://github.com/madler/zlib」](https://github.com/madler/zlib) And [HomePage「https://zlib.net/」](https://zlib.net/)
 - MIT license | imgui | ocornut | [GitHub「https://github.com/ocornut/imgui」](https://github.com/ocornut/imgui)
 
-
-# 使用方法
-
-以下にそれぞれの使い方を記述していく。
-
-[ChBaseライブラリ](https://github.com/Chronoss0518/GameLibrary/tree/master/ChWinLibrary/BasePack)
-
-[ChCppライブラリ](https://github.com/Chronoss0518/GameLibrary/tree/master/ChWinLibrary/CPP)
-
-[ChWinライブラリ](https://github.com/Chronoss0518/GameLibrary/tree/master/ChWinLibrary/WindowsObject)
-
-[ChD3D9ライブラリ](https://github.com/Chronoss0518/GameLibrary/tree/master/ChWinLibrary/Direct3D9)
-
-[ChD3D11ライブラリ](https://github.com/Chronoss0518/GameLibrary/tree/master/ChWinLibrary/Direct3D11)
-
-[ChD3Dライブラリ](https://github.com/Chronoss0518/GameLibrary/tree/master/ChWinLibrary/Direct3DObject)
-
-[ChImGuiライブラリ](https://github.com/Chronoss0518/GameLibrary/tree/master/ChWinLibrary/ImGUIAPI)
-
-[ExternalLibrary(https://github.com/Chronoss0518/ChCppLibrary/tree/master/ChCppLibrary/External)
-
 # 予定
 
 - クイックスタータの内容を追加していく。
