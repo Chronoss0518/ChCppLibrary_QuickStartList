@@ -1,7 +1,7 @@
 
 # ChCppLibrary_ChCppのクイックスターター
 
-ChCppLibrary内のChCpp,ChBaseのライブラリの使い方を説明するためのリポジトリ
+ChCppLibrary内のChBaseのライブラリの使い方を説明するためのリポジトリ
 
 # 使用環境
 
