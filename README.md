@@ -1,5 +1,5 @@
 
-# ChCppLibrary_Chのクイックスターター
+# ChCppLibrary_ChBaseのクイックスターター
 
 ChCppLibrary内のChBaseのライブラリの使い方を説明するためのリポジトリ
 
