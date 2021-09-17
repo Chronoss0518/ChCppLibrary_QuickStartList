@@ -1,9 +1,8 @@
 /*
 * ChLibrary内にあるnamespace "ChStd" の使用方法を説明します。
-* ChStdはまとめるまで行かない関数群をまとめたクラスになります。
-* ChLibraryを使用する場合はChCppLibraryフォルダ内のChCppLibraryフォルダの直下にあるヘッダーファイルをincludeします。
-* ChLibraryのlibファイルはChCppLibraryフォルダ内のChCppLibraryフォルダ内にあるStaticLibraryフォルダの直下にあります。
-* ChStdは他のBaseLibraryとは違い様々な場面で利用できる機能が入っています。
+* ChStdはまとめるまで行かない関数群をまとめた機能群になります。
+* ChCppLibraryを使用する場合はChCppLibraryフォルダ内のChCppLibraryフォルダの直下にあるヘッダーファイルをincludeします。
+* ChCppLibraryのlibファイルはChCppLibraryフォルダ内のChCppLibraryフォルダ内にあるStaticLibraryフォルダの直下にあります。
 * ここでは主に使われるChStdの機能を説明します。
 */
 

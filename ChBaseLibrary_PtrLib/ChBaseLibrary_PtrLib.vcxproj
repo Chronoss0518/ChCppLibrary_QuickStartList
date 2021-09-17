@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{67c6397c-f04e-4b55-b4ab-a19e74888e2c}</ProjectGuid>
-    <RootNamespace>ChBaseLibraryStdLib</RootNamespace>
+    <ProjectGuid>{1aa20e5c-6974-4814-b7fb-647beff15948}</ProjectGuid>
+    <RootNamespace>ChBaseLibraryPtrLib</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
