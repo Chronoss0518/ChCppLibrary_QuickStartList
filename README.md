@@ -1,7 +1,7 @@
 
-# ChCppLibrary_ChBaseのクイックスターター
+# ChCppLibraryのクイックスターター
 
-ChCppLibrary内のChBaseのライブラリの使い方を説明するためのリポジトリ
+目的別でChCppLibraryの利用方法を設置していく。
 
 # 使用環境
 
@@ -15,7 +15,6 @@ ChCppLibrary内のChBaseのライブラリの使い方を説明するための�
 
 # 内容
 
-#### namespace ChStdに含まれる機能の紹介[「ChBaseLibrary_StdLib」](https://github.com/Chronoss0518/ChLibrary_Cpp_QuickStarter_Windows/tree/master/ChBaseLibrary_StdLib)
 
 
 # ExternalLibrary
@@ -33,8 +32,6 @@ ChCppLibrary内のChBaseのライブラリの使い方を説明するための�
 
 # 更新(予定から移動したもの)
 
-- ChStdの使用方法の追加
-- ChPtrの使用方法の追加
 
 
 # クイックスターターのコンセプト
